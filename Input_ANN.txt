@@ -1,0 +1,13 @@
+project_name			[M8.ANN2_FS3
+database 				[db_HEAs.csv
+y 						[VHN
+x 						[R_cov_delta,G_delta,VEC,E_delta,H_chem,H_el
+layer_units				[20,15,10,1
+activation_functions	[sigmoid,sigmoid,relu,relu
+loss_function			[mae
+optimizer				[Adam
+learning_rate			[0.02
+iterations				[400
+save_after_iterations	[100
+check_error				[101
+check_after_iterations	[200
