@@ -4,7 +4,7 @@
 - **Authors** : [Dishant Beniwal](https://github.com/d-beniwal) [^1], P. Singh [^2], S. Gupta [^2], M.J. Kramer [^2], D.D. Johnson [^2][^3], Pratik K. Ray [^1]
 - **Journal** : npj Computational Materials
 - **DOI** : https://doi.org/10.1038/s41524-022-00842-3
-[^1]: Department of Metallurgical and Materials Engineering, Indian Institute of Technology Ropar, Rupnagar 140001, Punjab, India
+[^1]: [IDEAs Lab](https://ideaslab.iitrpr.ac.in/), Department of Metallurgical and Materials Engineering, Indian Institute of Technology Ropar, Rupnagar 140001, Punjab, India
 [^2]: Ames Laboratory, US Department of Energy, Ames, IA 50011, USA
 [^3]: Materials Science & Engineering, Iowa State University, Ames, IA 50011, USA
 
@@ -20,11 +20,11 @@ Database file - 218 HEAs with their hardness, phase information and normalized f
 Creates ANN model using parameters defined in "Input_ANN.txt" file. A new directory is created to store trained models and training/validation results.
 
 Requirements|recommended versions:
-Python|3.8.1 
-pandas|1.0.3 
-numpy|1.18.2 
-scikit-learn|0.22.2 
-tensorflow|2.2.0rc2 
+Python|3.8.1 ; 
+pandas|1.0.3 ; 
+numpy|1.18.2 ; 
+scikit-learn|0.22.2 ; 
+tensorflow|2.2.0rc2 ; 
 keras|2.3.1 
 
 
